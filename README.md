@@ -10,3 +10,5 @@ MPU6050 Gyroscope sensor was used to get readings for self-balancing, and specia
 Internet of Things (IoT) · Embedded Systems · Electronics · Arduino
 
 Please check project report for more info.
+
+Demo video - https://youtu.be/Tlkltx4Mtl0
